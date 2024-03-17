@@ -8,7 +8,8 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>DesktopProject</RootNamespace>
     <AssemblyName>DesktopProject</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+     <TargetFramework>net4.8</TargetFramework>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
